@@ -1,0 +1,17 @@
+Learning about servers can be a complex topic, as there are many different types of servers and technologies to choose from. Some key concepts you may want to learn about include:
+
+Types of servers: There are many different types of servers, including web servers, application servers, database servers, and file servers. Each type of server has a specific purpose and uses different software and technologies.
+
+Server hardware: Understanding the different components that make up a server, including processors, memory, storage, and networking, will help you understand how a server works and how to troubleshoot issues.
+
+Operating systems: Servers typically run on a different operating system than a personal computer, such as Linux or Windows Server. Understanding the basics of these operating systems, including how to navigate the file system, install software, and troubleshoot issues is important.
+
+Networking: Servers are often connected to a network, either locally or over the internet. Understanding how networks work, including IP addresses, DNS, and routing, will help you understand how servers communicate with other devices.
+
+Virtualization: Many servers are now virtualized, which means they run as a software version of a physical server. Understanding the basics of virtualization technologies such as VMware, Hyper-V and Virtual Box is important.
+
+Cloud computing: Cloud computing is a way of delivering computing services, including servers, over the internet. Understanding the basics of cloud computing, including the different types of cloud services available, will help you understand how servers can be delivered and managed in a cloud environment.
+
+Security: Securing servers is important to protect them from unauthorized access and attacks. Understanding the basics of server security, including firewalls, intrusion detection systems, and security best practices, will help you keep your servers safe.
+
+You may also want to consider taking a course or certification program, such as those offe
