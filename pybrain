@@ -1,0 +1,22 @@
+Before learning the PyBrain library, it's important to have a solid understanding of the following concepts:
+
+Artificial Neural Networks (ANN): PyBrain is a library for building and training artificial neural networks, so it's important to have a basic understanding of what ANNs are and how they work.
+
+Backpropagation: PyBrain uses the backpropagation algorithm for training neural networks, so it's important to understand the basics of how backpropagation works.
+
+Python Programming: PyBrain is a Python library, so you will need to have a basic understanding of Python programming in order to use it.
+
+Linear Algebra: PyBrain uses linear algebra concepts like matrices, vectors, and dot products, so it's helpful to have a basic understanding of these concepts.
+
+Calculus: Some of the optimization techniques used in PyBrain are based on calculus, so it's helpful to have a basic understanding of calculus concepts like derivatives and gradient descent.
+
+Data structures and manipulation: PyBrain uses different data structures to manage data, such as numpy arrays, so it's important to have a basic understanding of how to manipulate and extract data from these structures.
+
+Machine Learning: PyBrain is a library for machine learning, so it's important to have a basic understanding of machine learning concepts, such as supervised and unsupervised learning.
+
+Data visualization: PyBrain uses different visualization tools such as Matplotlib to represent data, so it's important to have a basic understanding of how to create and interpret different types of plots and charts.
+
+By having a good understanding of these concepts, you will be able to better understand how PyBrain works and be able to use it more effectively.
+
+
+
